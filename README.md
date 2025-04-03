@@ -63,13 +63,15 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 | `<table>` & `<tr><td>` | Tables          | `<table><tr><td>Data</td></tr></table>` |
 
 </hr>
-<h3> The next skill is to learn chat gpt here some link 5 april 2025 </h3>
+<h3> The next skill is to learn chat gpt here some link </h3>
+ 
+<h2> 5 april 2025 </h2>
 
 1) https://youtu.be/pedDPUdfZJ8?si=gQ9dbP81LjTwyJUl
 2) `https://youtu.be/mnULGqkVONI?si=kGx5K4FuAJZIrYMV
 3) https://youtu.be/Nz1MI8nsFTs?si=mfUhEJJcSSYS_J6T
 4) https://youtu.be/wLk2xRzhbjk?si=Kmmf9WOsUGktdlQu
-
+<hr>
 <h3> The next skill to learn SQL  here the link </h3>
 <br>
 <h2> 6 april 2025 to 7 april 2025</h2>
@@ -79,7 +81,7 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 3) https://youtu.be/KvT6urWNBBc?si=WS5UMClOYut64ybU
 4) https://youtu.be/7azCOKryADA?si=nzufKCdwEgFI5hcQ
 
-
+<hr>
 <h3> The next skill to learn Statistics here the link </h3>
 <br>
 <h2> 8 to 9april 2025 </h2>
@@ -97,7 +99,7 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 1) https://youtu.be/SA_SDo-cqpg?si=4mPFjqnbqHXSY_XZ
 2) https://youtu.be/XbyiTh-6k9Q?si=GrLcjcLNhflGwnsX
 3) https://youtu.be/wF8Vew_ydRQ?si=54KN09jaG-aMJyAe
-
+<hr>
 <br>
 <b><h3> Then create a Project to using this skill and upload it github </h3></b>
 
