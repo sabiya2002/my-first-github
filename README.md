@@ -63,12 +63,10 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 
 </hr>
 
-<hr> 
-<h2>HTML TAG</h2>  |  ><h2> USEGA IN GITHUB</h2> | <h2> EXAMPLE</h2>
+<hr> <TABLE><h2>HTML TAG</h2>  |  ><h2> USEGA IN GITHUB</h2> | <h2> EXAMPLE</h2>
 <hr>
 <h1> to <h6>       |  HEADINGS |                  | <h1> BIG TITLE</h1>
-
-
+ </TABLE>
 
 
 
