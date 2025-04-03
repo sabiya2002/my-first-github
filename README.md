@@ -42,7 +42,7 @@ It only takes 2 or 3 hours.
 
 If you don’t want to watch the whole video, and You only need to learn the HTML syntax used in GitHub.
 
-<h2> you can use this list of items.</h2>
+<h2> You can use this list of items.</h2>
 
 
 | **HTML Tag**   | **Usage in GitHub**        | **Example**                          |
@@ -62,4 +62,10 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 | `<hr>`        | Horizontal Line          | `<hr>`                           |
 | `<table>` & `<tr><td>` | Tables          | `<table><tr><td>Data</td></tr></table>` |
 
+</hr>
+
+| Name   | Age | Class | Roll No | Marks | City   | ID  | Skill        |
+|--------|-----|-------|---------|-------|--------|-----|-------------|
+| Sabiya | 22  | 14    | 1       | 90    | Mumbai | 101 | Data Science |
+| Saba   | 22  | 17    | 2       | 100   | Mumbai | 102 | AI          |
 
