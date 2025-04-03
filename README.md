@@ -69,3 +69,12 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 | Sabiya | 22  | 14    | 1       | 90    | Mumbai | 101 | Data Science |
 | Saba   | 22  | 17    | 2       | 100   | Mumbai | 102 | AI          |
 
+<hr>
+
+<h1> this my work doing spend the around one - two hours</h1>
+|  name  	| age 	| class 	| rollno 	| marks 	| city   	| id  	| skill        	|
+|:------:	|-----	|-------	|--------	|-------	|--------	|-----	|--------------	|
+| sabiya 	| 22  	| 14    	| 1      	| 90    	| mumbai 	| 101 	| data science 	|
+| saba   	| 22  	| 17    	| 2      	| 100   	| mumbai 	| 102 	| AI           	|
+
+
