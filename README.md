@@ -13,7 +13,7 @@ My-first-github
 
 <h3> 3 April 2025 </h3>
 
-<b><br> <h4>learn html basic </h4></b>
+<b> <h4>learn html basic </h4></b>
 (https://youtu.be/HcOc7P5BMi4?si=WhUVwKG5d_M7Hg2C) <b>optional </b>
 
 <h5><hr> <b>note: This will  help you to learn syntax that you can easily use in your github</b></hr></h5>
