@@ -95,13 +95,13 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 <h3>  Excel for Data Analysis here the link </h3>
 <hr> 
 <h2> 17 to 22 April 2025</h2>
-<br>
 </hr>
+<br>
 1) https://youtu.be/SA_SDo-cqpg?si=4mPFjqnbqHXSY_XZ
 2) https://youtu.be/XbyiTh-6k9Q?si=GrLcjcLNhflGwnsX
 3) https://youtu.be/wF8Vew_ydRQ?si=54KN09jaG-aMJyAe
 <hr>
-<br>
+
 <b><h3> Then create a Project to using this skill and upload it github </h3></b>
 
  <h2> 23 april to 30 april 2025</h2>
@@ -111,7 +111,7 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 <h2> 1 may to 20 may 2025</h2>
 
 <hr> <b> here the some links </b>
-<br>
+
 1)https://youtu.be/UrsmFxEIp5k?si=cC5rU1XDiqg9erZL
 2)https://youtu.be/ERCMXc8x7mc?si=RKeBVl7z1yhcSEiY
 3)https://youtu.be/46-hg6d270Q?si=K4u7EJil9pPLUQjc
