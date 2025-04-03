@@ -95,6 +95,7 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 <h3>  Excel for Data Analysis here the link </h3>
 <hr> 
 <h2> 17 to 22 April 2025</h2>
+<br>
 </hr>
 1) https://youtu.be/SA_SDo-cqpg?si=4mPFjqnbqHXSY_XZ
 2) https://youtu.be/XbyiTh-6k9Q?si=GrLcjcLNhflGwnsX
