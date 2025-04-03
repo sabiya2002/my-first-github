@@ -1,4 +1,4 @@
-# my-first-github
+My-first-github
 <h1> This is my first git repository.</h1>
 <br>
 <h3>--Author - Sabiya Shaikh.</h3>
@@ -12,7 +12,8 @@
 <hr> </hr>
 
 <h3> 3 April 2025 </h3>
-<br> <h4>learn html basic </h4>
+
+<b><br> <h4>learn html basic </h4></b>
 (https://youtu.be/HcOc7P5BMi4?si=WhUVwKG5d_M7Hg2C) <b>optional </b>
 
 <h5><hr> <b>note: This will  help you to learn syntax that you can easily use in your github</b></hr></h5>
@@ -37,7 +38,30 @@ Whatever I learn on my journey, I’ll share it so others like me can benefit fr
 
 This will help both me and you track our progress and stay disciplined.
 
-</h2>
+It only takes 2 or 3 hours.
+
+If you don’t want to watch the whole video, and You only need to learn the HTML syntax used in GitHub.
+
+<h2> you can use this list of items.</h2>
+<hr> 
+| **HTML Tag**   | **Usage in GitHub**        | **Example**                          |
+|---------------|-------------------------|----------------------------------|
+| `<h1>` to `<h6>` | Headings               | `<h1>Big Title</h1>`             |
+| `<p>`         | Paragraphs               | `<p>This is a paragraph.</p>`    |
+| `<br>`        | Line Break               | `Line 1<br>Line 2`               |
+| `<strong>`    | Bold Text                | `<strong>Bold Text</strong>`     |
+| `<em>`        | Italic Text              | `<em>Italic Text</em>`           |
+| `<a href="">` | Links                    | `<a href="https://github.com">GitHub</a>` |
+| `<img src="">` | Images                   | `<img src="image.jpg" alt="Description">` |
+| `<code>`      | Inline Code              | `<code>print("Hello")</code>`    |
+| `<pre>`       | Preformatted Text        | `<pre>Code Block</pre>`          |
+| `<ul>` & `<li>` | Unordered List          | `<ul><li>Item 1</li><li>Item 2</li></ul>` |
+| `<ol>` & `<li>` | Ordered List            | `<ol><li>First</li><li>Second</li></ol>` |
+| `<blockquote>` | Block Quote             | `<blockquote>Quoted text</blockquote>` |
+| `<hr>`        | Horizontal Line          | `<hr>`                           |
+| `<table>` & `<tr><td>` | Tables          | `<table><tr><td>Data</td></tr></table>` |
+
+</hr>
 
 
 
