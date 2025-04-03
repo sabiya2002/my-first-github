@@ -69,3 +69,4 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 | Sabiya | 22  | 14    | 1       | 90    | Mumbai | 101 | Data Science |
 | Saba   | 22  | 17    | 2       | 100   | Mumbai | 102 | AI          |
 
+table.csv
