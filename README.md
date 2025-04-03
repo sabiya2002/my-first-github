@@ -63,5 +63,56 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 | `<table>` & `<tr><td>` | Tables          | `<table><tr><td>Data</td></tr></table>` |
 
 </hr>
+<h3> The next skill is to learn chat gpt here some link 5 april 2025 </h3>
+
+1) https://youtu.be/pedDPUdfZJ8?si=gQ9dbP81LjTwyJUl
+2) `https://youtu.be/mnULGqkVONI?si=kGx5K4FuAJZIrYMV
+3) https://youtu.be/Nz1MI8nsFTs?si=mfUhEJJcSSYS_J6T
+4) https://youtu.be/wLk2xRzhbjk?si=Kmmf9WOsUGktdlQu
+
+<h3> The next skill to learn SQL  here the link </h3>
+<br>
+<h2> 6 april 2025 to 7 april 2025</h2>
+
+1) https://youtu.be/hlGoQC332VM?si=SWP4PQqeJbTAHvC_
+2) https://youtu.be/Ed0gxXMmP60?si=BZ_XE3gI8SWQaCoL
+3) https://youtu.be/KvT6urWNBBc?si=WS5UMClOYut64ybU
+4) https://youtu.be/7azCOKryADA?si=nzufKCdwEgFI5hcQ
+
+
+<h3> The next skill to learn Statistics here the link </h3>
+<br>
+<h2> 8 to 9april 2025 </h2>
+
+1)https://youtu.be/L_OLifCqxCQ?si=2CcKar-VJTZ6JXCa
+
+<h3> To practice both this skills very well </h3>
+
+<hr> <h2> 9 to 16 April 2025 </hr> </h2>
+
+<h3>  Excel for Data Analysis here the link </h3>
+<hr> 
+<h2> 17 to 22 April 2025</h2>
+</hr>
+1) https://youtu.be/SA_SDo-cqpg?si=4mPFjqnbqHXSY_XZ
+2) https://youtu.be/XbyiTh-6k9Q?si=GrLcjcLNhflGwnsX
+3) https://youtu.be/wF8Vew_ydRQ?si=54KN09jaG-aMJyAe
+
+<br>
+<b><h3> Then create a Project to using this skill and upload it github </h3></b>
+
+ <h2> 23 april to 30 april 2025</h2>
+
+
+
+
+
+
+
+
+
+   
+   
+
 
 
