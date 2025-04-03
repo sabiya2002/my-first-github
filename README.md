@@ -43,7 +43,8 @@ It only takes 2 or 3 hours.
 If you don’t want to watch the whole video, and You only need to learn the HTML syntax used in GitHub.
 
 <h2> you can use this list of items.</h2>
-<hr> 
+
+
 | **HTML Tag**   | **Usage in GitHub**        | **Example**                          |
 |---------------|-------------------------|----------------------------------|
 | `<h1>` to `<h6>` | Headings               | `<h1>Big Title</h1>`             |
@@ -60,13 +61,5 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 | `<blockquote>` | Block Quote             | `<blockquote>Quoted text</blockquote>` |
 | `<hr>`        | Horizontal Line          | `<hr>`                           |
 | `<table>` & `<tr><td>` | Tables          | `<table><tr><td>Data</td></tr></table>` |
-
-</hr>
-
-<hr> <TABLE> <TR> <h2>HTML TAG</h2>  |  ><h2> USEGA IN GITHUB</h2> | <h2> EXAMPLE</h2>
-<hr>
-<h1> to <h6>       |  HEADINGS |                  | <h1> BIG TITLE</h1>
- </TABLE>
-
 
 
