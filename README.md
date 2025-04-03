@@ -3,9 +3,9 @@ My-first-github
 <br>
 <h3>--Author - Sabiya Shaikh.</h3>
 </br>
-<h2><b> My 3-Month Data Science Roadmap  </b></h2>
+<h2><b> My 4-Month Data Science Roadmap  </b></h2>
 
-<h3><hr>3 April 2025 to 2 june 2025 </hr></h3>
+<h3><hr>3 April 2025 to 3 july </hr></h3>
 
 <br><h4> 3 April 2025 to learn github and git here the link</h4>
 (https://youtu.be/Ez8F0nW6S-w?si=4iB4mqiTWEtp1-cM )
@@ -88,7 +88,7 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 
 1)https://youtu.be/L_OLifCqxCQ?si=2CcKar-VJTZ6JXCa
 
-<h3> To practice both this skills very well </h3>
+<h3> Then, practice both these skills very well </h3>
 
 <hr> <h2> 9 to 16 April 2025 </hr> </h2>
 
@@ -105,7 +105,33 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 
  <h2> 23 april to 30 april 2025</h2>
 
+<h3><b>python </h3></b>
 
+<h2> 1 may to 20 may 2025</h2>
+
+<hr> <b> here the some links </b>
+
+1)https://youtu.be/UrsmFxEIp5k?si=cC5rU1XDiqg9erZL
+2)https://youtu.be/ERCMXc8x7mc?si=RKeBVl7z1yhcSEiY
+3)https://youtu.be/46-hg6d270Q?si=K4u7EJil9pPLUQjc
+4)https://youtu.be/nBcMngKLixY?si=pXymPg8Ti0OmqJey
+
+
+<h3> <b> Then create a project using those skills and upload it to github </h3> </b>
+
+<h2> 21 may 2 june</h2>
+
+<hr>
+<h3> Machine Learning </h3>
+
+1)https://www.youtube.com/live/8uDZjeXVa_4?si=y-KGkHroP7oLnxFq
+
+<h2> 3 june to 3 july 2025 </h2>
+
+<h3> <b> Then Create at least 3 real-world  projects using those skills upload it to github </b></h3>
+<hr>
+
+<h3> ALL THE BEST </h3>
 
 
 
