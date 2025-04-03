@@ -106,18 +106,17 @@ If you don’t want to watch the whole video, and You only need to learn the HTM
 
  <h2> 23 april to 30 april 2025</h2>
 
-<h3><b>python </h3></b>
+<h3><b>Python </h3></b>
 
 <h2> 1 may to 20 may 2025</h2>
 
 <hr> <b> here the some links </b>
-<br>
 
 1)https://youtu.be/UrsmFxEIp5k?si=cC5rU1XDiqg9erZL
 2)https://youtu.be/ERCMXc8x7mc?si=RKeBVl7z1yhcSEiY
 3)https://youtu.be/46-hg6d270Q?si=K4u7EJil9pPLUQjc
 4)https://youtu.be/nBcMngKLixY?si=pXymPg8Ti0OmqJey
-
+<hr>
 
 <h3> <b> Then create a project using those skills and upload it to github </h3> </b>
 
