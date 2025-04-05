@@ -5,7 +5,6 @@
 </br>
 <h2><b> My 4-Month Data Science Roadmap  </b></h2>
 
-<h3><hr>4 April 2025 to 3 july </hr></h3>
 
 <br><h4> 3 April 2025 to learn github and git here the link</h4>
 (https://youtu.be/Ez8F0nW6S-w?si=4iB4mqiTWEtp1-cM )
